@@ -97,3 +97,5 @@
 ### day 4/11
 디자인
 ![e1778a7060f2e17e5e6a7dfe1059c58d7915225a7bc9527673e1edd56d71](https://user-images.githubusercontent.com/117147980/233313002-529961db-6763-4012-a405-1cf5afaf200b.jpg)
+
+![KakaoTalk_20230420_175655314](https://user-images.githubusercontent.com/117147980/233316794-90e1efa7-b680-465c-898c-652f3ca35d3e.png)
