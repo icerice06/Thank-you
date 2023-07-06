@@ -99,3 +99,7 @@
 ![e1778a7060f2e17e5e6a7dfe1059c58d7915225a7bc9527673e1edd56d71](https://user-images.githubusercontent.com/117147980/233313002-529961db-6763-4012-a405-1cf5afaf200b.jpg)
 
 ![KakaoTalk_20230420_175655314](https://user-images.githubusercontent.com/117147980/233316794-90e1efa7-b680-465c-898c-652f3ca35d3e.png)
+
+### day 5/25
+<img width="1200" alt="스크린샷 2023-07-06 202219" src="https://github.com/icerice06/Thank-you/assets/117147980/eed49a0e-d96e-4855-b862-986b6dc093d4">
+
