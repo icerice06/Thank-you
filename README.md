@@ -47,6 +47,10 @@
 다이어그램
 <img src="https://user-images.githubusercontent.com/117147980/229779810-dd664aae-2cad-43c7-a136-45dd076dc93e.png" width="50%" height="40%" title="px100" alt="RubberDuck"></img>
 
+다이어그램 업데이트
+![제목 없는 다이어그램 drawio](https://github.com/icerice06/Thank-you/assets/117147980/e6c48b0b-e393-4d7f-8737-769e31098e25)
+
+
 
 # 4) 개발 과정
   * 스마트 쓰레기통 구상 및 설계
@@ -103,3 +107,5 @@
 ### day 5/25
 <img width="1200" alt="스크린샷 2023-07-06 202219" src="https://github.com/icerice06/Thank-you/assets/117147980/eed49a0e-d96e-4855-b862-986b6dc093d4">
 
+### day 6/22
+![KakaoTalk_20230712_201244390](https://github.com/icerice06/Thank-you/assets/117147980/9230fb1c-0113-4076-bae4-df8f0b0afa95)
